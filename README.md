@@ -1,22 +1,26 @@
 ## Hi, I'm Hiyaw 👋
 
-AI and Backend Engineer focused on Python, LLM systems, and reliable data pipelines.
+Backend and AI Engineer building scalable APIs, data pipelines, and LLM powered applications with Python.
 
-### Highlights
+### Experience
 
-**Hydrus AI** · Lead Backend Engineer  
-Led a team of eight building an enterprise sustainability analytics platform. Owned emissions calculation pipelines and led backend migrations for live enterprise clients.
+**Hydrus AI** · Backend Engineer  
+Enterprise sustainability analytics platform: emissions calculation pipelines, data validation, and backend migrations.
 
-**AfroChat** · Project Lead and Backend Engineer  
-Led a team of 20 building the first AI service provider in Ethiopia, from LLM integration to serving real users at scale.
+**AfroChat** · Backend Engineer  
+Ethiopia's first AI service provider: LLM integration, REST APIs, and production AI services.
 
 *Both platforms are private, so their code isn't shown here.*
 
-### Tech
+### Skills
 
-Python · FastAPI · PyTorch · LLMs · RAG · AWS · PostgreSQL · Docker
+**Languages:** Python, SQL, JavaScript  
+**Backend:** FastAPI, Django, REST APIs, Microservices  
+**AI and ML:** LLMs, RAG, PyTorch, Prompt Engineering, Model Evaluation, RLHF  
+**Data:** PostgreSQL, Data Pipelines, ETL, Data Validation  
+**Cloud and Tools:** AWS, Docker, Git, Linux
 
-### Also
+### Education
 
-AI model evaluation and RLHF work · A2SV (Africa to Silicon Valley) alumnus  
-B.Sc. Electrical and Computer Engineering, Addis Ababa University
+B.Sc. Electrical and Computer Engineering, Addis Ababa University  
+A2SV (Africa to Silicon Valley) Software Engineering Program

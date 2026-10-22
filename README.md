@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Hiyaw 👋
 
-<!--
-**hiyaw10/hiyaw10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI and Backend Engineer focused on Python, LLM systems, and reliable data pipelines.
 
-Here are some ideas to get you started:
+### Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hydrus AI** · Lead Backend Engineer  
+Led a team of eight building an enterprise sustainability analytics platform. Owned emissions calculation pipelines and led backend migrations for live enterprise clients.
+
+**AfroChat** · Project Lead and Backend Engineer  
+Led a team of 20 building the first AI service provider in Ethiopia, from LLM integration to serving real users at scale.
+
+*Both platforms are private, so their code isn't shown here.*
+
+### Tech
+
+Python · FastAPI · PyTorch · LLMs · RAG · AWS · PostgreSQL · Docker
+
+### Also
+
+AI model evaluation and RLHF work · A2SV (Africa to Silicon Valley) alumnus  
+B.Sc. Electrical and Computer Engineering, Addis Ababa University

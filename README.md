@@ -15,11 +15,26 @@ Enterprise sustainability analytics platform: emissions calculation pipelines, d
 **AfroChat** · Backend Engineer  
 Ethiopia's first AI service provider: LLM integration, REST APIs, and production AI services.
 
-*These platforms are private, so their code isn't shown here.*
+**Turing and Mercor** · AI Trainer and Model Evaluator  
+LLM evaluation, side by side response rating, RLHF data, and fact verification for frontier AI models.
+
+**Doktar** · Python and LLM Engineer (Contract)  
+Agtech platform: LLM and RAG features built in Python.
+
+**Abroadify** · Backend Engineer (Contract)  
+Backend services and REST API development.
+
+**Cybersoft** · Embedded Systems Engineer  
+Sensor data acquisition and processing for embedded systems.
+
+**Eskalate** · Backend Engineering Intern  
+**Reascon Construction** · Software Engineer
+
+*Most of this work lives in private repositories, so the code isn't shown here.*
 
 ### Skills
 
-**Languages:** Python, SQL, JavaScript  
+**Languages:** Python, SQL, JavaScript, C  
 **Backend:** FastAPI, Django, REST APIs, Microservices  
 **AI and ML:** LLMs, RAG, PyTorch, Prompt Engineering, Model Evaluation, RLHF  
 **Data:** PostgreSQL, Data Pipelines, ETL, Data Validation  
